@@ -15,7 +15,7 @@
 					"rotate": [0, 0, -180],
 					"boxes": [
 						{
-							"coordinates": [-3, -5, -1, 1, 10, 1],
+							"coordinates": [-3, -5, 0, 1, 10, 1],
 							"uvNorth": [21, 0, 22, 10],
 							"uvEast": [15, 0, 16, 10],
 							"uvSouth": [22, 0, 21, 10],
@@ -24,7 +24,7 @@
 							"uvDown": [21, 0, 22, 1]
 						},
 						{
-							"coordinates": [-2, -5, -1, 5, 10, 1],
+							"coordinates": [-2, -5, 0, 5, 10, 1],
 							"uvNorth": [16, 0, 21, 10],
 							"uvEast": [15, 0, 16, 10],
 							"uvSouth": [23, 0, 28, 10],
@@ -54,7 +54,7 @@
 					"rotate": [0, 0, -180],
 					"boxes": [
 						{
-							"coordinates": [-3, -5, -1, 5, 10, 1],
+							"coordinates": [-3, -5, 0, 5, 10, 1],
 							"uvNorth": [1, 0, 6, 10],
 							"uvEast": [-1, 0, 0, 10],
 							"uvSouth": [6, 0, 11, 10],
@@ -63,7 +63,7 @@
 							"uvDown": [6, 0, 11, 1]
 						},
 						{
-							"coordinates": [2, -5, -1, 1, 10, 1],
+							"coordinates": [2, -5, 0, 1, 10, 1],
 							"uvNorth": [0, 0, 1, 10],
 							"uvEast": [-1, 0, 0, 10],
 							"uvSouth": [1, 0, 0, 10],
@@ -93,11 +93,11 @@
 					"rotate": [-180, 0, 0],
 					"boxes": [
 						{
-							"coordinates": [-1, -5, 0, 2, 10, 1],
+							"coordinates": [-1, -5, -1, 2, 10, 1],
 							"uvNorth": [12, 0, 14, 10],
-							"uvEast": [12, 0, 13, 10],
+							"uvEast": [6, 0, 7, 10],
 							"uvSouth": [14, 0, 16, 10],
-							"uvWest": [13, 0, 14, 10],
+							"uvWest": [27, 0, 28, 10],
 							"uvUp": [14, 0, 12, -1],
 							"uvDown": [16, -1, 14, 0]
 						}
@@ -122,7 +122,7 @@
 					"translate": [2.5, 5, -0.6],
 					"rotate": [0, 0, -180],
 					"boxes": [
-						{"coordinates": [-2.5, -4, -1.4, 5, 8, 1], "textureOffset": [12, 10]}
+						{"coordinates": [-2.5, -4, -0.4, 5, 8, 1], "textureOffset": [12, 10]}
 					]
 				}
 			],
@@ -144,7 +144,7 @@
 					"translate": [-2.5, 5, -0.6],
 					"rotate": [0, -180, -180],
 					"boxes": [
-						{"coordinates": [-2.5, -4, 0.4, 5, 8, 1], "textureOffset": [0, 10]}
+						{"coordinates": [-2.5, -4, -0.6, 5, 8, 1], "textureOffset": [0, 10]}
 					]
 				}
 			],
@@ -167,7 +167,7 @@
 					"translate": [2.5, 5, -2.1],
 					"rotate": [0, 0, -180],
 					"boxes": [
-						{"coordinates": [-2.5, -4, -0.9, 5, 8, 0], "textureOffset": [24, 10]}
+						{"coordinates": [-2.5, -4, 0.1, 5, 8, 0], "textureOffset": [24, 10]}
 					]
 				}
 			],
@@ -189,7 +189,7 @@
 					"translate": [-2.5, 5, -2.1],
 					"rotate": [0, -180, -180],
 					"boxes": [
-						{"coordinates": [-2.5, -4, 0.9, 5, 8, 0], "textureOffset": [24, 10]}
+						{"coordinates": [-2.5, -4, -0.1, 5, 8, 0], "textureOffset": [24, 10]}
 					]
 				}
 			],
