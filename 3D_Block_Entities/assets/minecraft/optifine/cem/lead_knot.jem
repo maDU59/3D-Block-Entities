@@ -6,10 +6,10 @@
 			"part": "knot",
 			"id": "knot",
 			"invertAxis": "xy",
-			"translate": [0, -6, 0],
+			"translate": [0, -5, 0],
 			"boxes": [
 				{
-					"coordinates": [-2, 6, -2, 4, 1, 4],
+					"coordinates": [-2.5, 6, -2.5, 5, 1, 5],
 					"uvNorth": [7, 13, 11, 14],
 					"uvEast": [1, 13, 5, 14],
 					"uvSouth": [19, 13, 23, 14],
@@ -27,7 +27,7 @@
 					"uvDown": [12, 0, 18, 6]
 				},
 				{
-					"coordinates": [-2, 8, -2, 4, 1, 4],
+					"coordinates": [-2.5, 8, -2.5, 5, 1, 5],
 					"uvNorth": [7, 11, 11, 12],
 					"uvEast": [1, 11, 5, 12],
 					"uvSouth": [19, 11, 23, 12],
@@ -45,7 +45,7 @@
 					"uvDown": [18, 6, 12, 0]
 				},
 				{
-					"coordinates": [-2, 10, -2, 4, 1, 4],
+					"coordinates": [-2.5, 10, -2.5, 5, 1, 5],
 					"uvNorth": [7, 9, 11, 10],
 					"uvEast": [1, 9, 5, 10],
 					"uvSouth": [19, 9, 23, 10],
@@ -63,7 +63,7 @@
 					"uvDown": [12, 6, 18, 0]
 				},
 				{
-					"coordinates": [-2, 12, -2, 4, 1, 4],
+					"coordinates": [-2.5, 12, -2.5, 5, 1, 5],
 					"uvNorth": [7, 7, 11, 8],
 					"uvEast": [1, 7, 5, 8],
 					"uvSouth": [19, 7, 23, 8],
