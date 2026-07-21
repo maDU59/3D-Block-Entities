@@ -1,0 +1,121 @@
+{
+	"credit": "Made with Blockbench by maDU59_",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-8, 0, -8],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-7, -10, 9, 15, 10, 2],
+					"uvNorth": [14, 33, 29, 43],
+					"uvEast": [12, 33, 14, 43],
+					"uvSouth": [29, 44, 14, 34],
+					"uvWest": [29, 33, 31, 43],
+					"uvUp": [29, 33, 14, 31],
+					"uvDown": [44, 31, 29, 33]
+				},
+				{
+					"coordinates": [-7, -2, 9, 15, 2, 14],
+					"uvNorth": [14, 33, 29, 35],
+					"uvEast": [0, 33, 14, 35],
+					"uvSouth": [43, 33, 58, 35],
+					"uvWest": [29, 33, 43, 35],
+					"uvUp": [29, 33, 14, 19],
+					"uvDown": [29, 0, 14, 14]
+				},
+				{
+					"coordinates": [-7, -10, 21, 15, 10, 2],
+					"uvNorth": [14, 44, 29, 34],
+					"uvEast": [0, 33, 2, 43],
+					"uvSouth": [43, 33, 58, 43],
+					"uvWest": [41, 33, 43, 43],
+					"uvUp": [29, 21, 14, 19],
+					"uvDown": [44, 19, 29, 21]
+				},
+				{
+					"coordinates": [-7, -10, 9, 2, 10, 14],
+					"uvNorth": [27, 33, 29, 43],
+					"uvEast": [29, 44, 43, 34],
+					"uvSouth": [43, 33, 45, 43],
+					"uvWest": [29, 33, 43, 43],
+					"uvUp": [29, 33, 27, 19],
+					"uvDown": [44, 19, 42, 33]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-7, 4, 7, 2, 5, 14],
+					"uvNorth": [27, 14, 29, 19],
+					"uvEast": [29, 38, 43, 43],
+					"uvSouth": [43, 14, 45, 19],
+					"uvWest": [29, 14, 43, 19],
+					"uvUp": [29, 14, 27, 0],
+					"uvDown": [44, 0, 42, 14]
+				},
+				{
+					"coordinates": [-7, 4, 19, 15, 5, 2],
+					"uvNorth": [14, 38, 29, 43],
+					"uvEast": [0, 14, 2, 19],
+					"uvSouth": [43, 14, 58, 19],
+					"uvWest": [41, 14, 43, 19],
+					"uvUp": [29, 2, 14, 0],
+					"uvDown": [44, 0, 29, 2]
+				},
+				{
+					"coordinates": [-7, 4, 7, 15, 1, 14],
+					"uvNorth": [14, 18, 29, 19],
+					"uvEast": [0, 18, 14, 19],
+					"uvSouth": [43, 18, 58, 19],
+					"uvWest": [29, 18, 43, 19],
+					"uvUp": [29, 14, 14, 0],
+					"uvDown": [44, 0, 29, 14]
+				},
+				{
+					"coordinates": [-7, 4, 7, 15, 5, 2],
+					"uvNorth": [14, 14, 29, 19],
+					"uvEast": [12, 14, 14, 19],
+					"uvSouth": [14, 38, 29, 43],
+					"uvWest": [29, 14, 31, 19],
+					"uvUp": [29, 14, 14, 12],
+					"uvDown": [44, 12, 29, 14]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [7, 7, 21, 1, 4, 1], "textureOffset": [0, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		}
+	]
+}
