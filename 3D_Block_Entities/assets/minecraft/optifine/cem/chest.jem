@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by maDU59_",
 	"textureSize": [64, 64],
-	"texture": "chest",
 	"models": [
 		{
 			"part": "base",
